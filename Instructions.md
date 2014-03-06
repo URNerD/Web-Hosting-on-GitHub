@@ -5,4 +5,4 @@ One of the cool features of GitHub is that you can set up a web site using GitHu
 # Instructions
 
 1. Enable web hosting on GitHub by following the instructions here: [GitHub Pages](http://pages.github.com/).
-2. 
+2. While you are waiting for GitHub to publish your page, modify the index.html file that you created and make it proper HTML.
